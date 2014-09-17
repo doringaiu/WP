@@ -1,7 +1,8 @@
 <h1> WP Laboratory Work 1 </h1>
-<h2><span style = "padding-left:45px">Title:</span> <nobr style = "font-size:0.8em;font-weight:normal">Window. Window handling. Basic window’s form elements</nobr>
- <br><span style = "padding-left:55px">IDE:</span><nobr style = "font-size:0.8em;font-weight:normal"> Microsoft Visual Studio</nobr></br>
+<h2>Title: <nobr style = "font-size:0.8em;font-weight:normal">Window. Window handling. Basic window’s form elements</nobr>
+ <br>IDE:<nobr style = "font-size:0.8em;font-weight:normal"> Microsoft Visual Studio</nobr></br>
  Purpose:<nobr style = "font-size:0.8em;font-weight:normal"> To get acquainted with Windows API, message handling, parent and child windows creating.</nobr></h2>
+
 <h2> Mandatory Objectives </h2>
 - Create a Windows application
 -  Choose a Programming Style Guideline that you'll follow
