@@ -1,7 +1,8 @@
 <h1> WP Laboratory Work 1 </h1>
-<h2>Title: <nobr style = "font-size:0.8em;font-weight:normal">Window. Window handling. Basic window’s form elements</nobr>
- <br>IDE:<nobr style = "font-size:0.8em;font-weight:normal"> Microsoft Visual Studio</nobr></br>
- Purpose:<nobr style = "font-size:0.8em;font-weight:normal"> To get acquainted with Windows API, message handling, parent and child windows creating.</nobr></h2>
+<h2>Title:</h2>
+Window. Window handling. Basic window’s form elements
+<h2>IDE:</h2> Microsoft Visual Studio
+<h2> Purpose:</h2> To get acquainted with Windows API, message handling, parent and child windows creating.
 
 <h2> Mandatory Objectives </h2>
 - Create a Windows application
