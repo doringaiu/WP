@@ -11,3 +11,12 @@ Advanced Form Elements. Child Windowses. Basics of Working With Keyboard.
 
 <h2> Objectives with points </h2>
 - Customize your application by adding an icon and using different cursor in application (1 pt)
+
+<h2> Screenshot: </h2>
+<a href="http://www.imagebam.com/image/1e5cd9353481963" target="_blank"><img src="http://thumbnails109.imagebam.com/35349/1e5cd9353481963.jpg" alt="imagebam.com"></a> 
+
+<h2> App Functionality: </h2>
+This is almost the same app from laboratory work 1 with a few additions. Now we have menu bar , a slider and some registered hotkeys.
+
+<h2> Conclusion: </h2>
+In this Lab i learned how to customize my application , how to add UI elements such as sliders,menus. Also how to handle some keyboard events like hotkey pressing.
