@@ -16,7 +16,15 @@ Basics of Working with Mouse. GDI Primitives. Bezier Curve.
 - Fill an object with a gradient <b>(1 pt)</b>
 
 <h2> Screenshots: </h2>
-<a href="http://www.imagebam.com/image/cb46c4353483644" target="_blank"><img src="http://thumbnails112.imagebam.com/35349/cb46c4353483644.jpg" alt="imagebam.com"></a> <a href="http://www.imagebam.com/image/fe744a353483648" target="_blank"><img src="http://thumbnails112.imagebam.com/35349/fe744a353483648.jpg" alt="imagebam.com"></a> <a href="http://www.imagebam.com/image/c5c5cc353483651" target="_blank"><img src="http://thumbnails109.imagebam.com/35349/c5c5cc353483651.jpg" alt="imagebam.com"></a> <a href="http://www.imagebam.com/image/80057f353483656" target="_blank"><img src="http://thumbnails111.imagebam.com/35349/80057f353483656.jpg" alt="imagebam.com"></a> 
+<a href="http://www.imagebam.com/image/cb46c4353483644" target="_blank"><img src="http://thumbnails112.imagebam.com/35349/cb46c4353483644.jpg" alt="imagebam.com"></a>
+<br>
+<a href="http://www.imagebam.com/image/fe744a353483648" target="_blank"><img src="http://thumbnails112.imagebam.com/35349/fe744a353483648.jpg" alt="imagebam.com"></a></br>
+<br>
+<a href="http://www.imagebam.com/image/c5c5cc353483651" target="_blank"><img src="http://thumbnails109.imagebam.com/35349/c5c5cc353483651.jpg" alt="imagebam.com"></a>
+</br>
+<br>
+<a href="http://www.imagebam.com/image/80057f353483656" target="_blank"><img src="http://thumbnails111.imagebam.com/35349/80057f353483656.jpg" alt="imagebam.com"></a> 
+</br>
 
 <h2> App Functionality: </h2>
 In this app you can draw lines,rectangles,ellipses with your mouse but without any preview. Also the border and filled color,width parameters are adjustable.
